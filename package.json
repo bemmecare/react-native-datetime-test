@@ -8,9 +8,9 @@
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "react-native-navybits-date-time-picker",
-    "name": "react-native-navybits-date-time-picker",
-    "escapedName": "react-native-navybits-date-time-picker",
+    "raw": "react-native-datetime-test",
+    "name": "react-native-datetime-test",
+    "escapedName": "react-native-datetime-test",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "react-native-navybits-date-time-picker",
+  "name": "react-native-datetime-test",
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
