@@ -1,0 +1,47 @@
+{
+  "_from": "react-native-navybits-date-time-picker",
+  "_id": "react-native-navybits-date-time-picker@1.1.9",
+  "_inBundle": false,
+  "_integrity": "sha512-v7QvtAeWwTgSdUFU/WYh6316U2b/R6qDbsS1uxR8WY4QZi3QzXmVoEAqItwAtJA19wOkpyzPyjvwco4Ri03qdg==",
+  "_location": "/react-native-navybits-date-time-picker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-navybits-date-time-picker",
+    "name": "react-native-navybits-date-time-picker",
+    "escapedName": "react-native-navybits-date-time-picker",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-navybits-date-time-picker/-/react-native-navybits-date-time-picker-1.1.9.tgz",
+  "_shasum": "1193fc99c20d50abbccb2055c9c0b55e54d5bd67",
+  "_spec": "react-native-navybits-date-time-picker",
+  "_where": "/Users/lucasj/Documents/ReactNative/BmCApp",
+  "author": {
+    "name": "Hanane AL SAMROUT"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "This project is a modified version of [react-native-datePicker](https://github.com/xgfe/react-native-datepicker). It solves the need to set a *MinuteInterval* on android using the native picker [`MaterialDateTimePicker`](https://github.com/wdullaer/MaterialDateTimePicker)",
+  "homepage": "https://github.com/HananeAlSamrout/react-native-navybits-date-time-picker",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-navybits-date-time-picker",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.9"
+}
