@@ -100,7 +100,7 @@ class DatePicker extends Component {
   }
 
   onPressCancel() {
-   
+
     this.setModalVisible(false);
 
     if (typeof this.props.onCancel === "function") {
@@ -180,28 +180,7 @@ class DatePicker extends Component {
     }
   }
 
-  getTitleElement() {
-    const { date, placeholder, customStyles, allowFontScaling } = this.props;
 
-    if (!date && placeholder) {
-      return (
-        <Text
-          allowFontScaling={allowFontScaling}
-          style={[styles.placeholderText, customStyles.placeholderText]}
-        >
-          {placeholder}
-        </Text>
-      );
-    }
-    return (
-      <Text
-        allowFontScaling={allowFontScaling}
-        style={[styles.dateText, customStyles.dateText]}
-      >
-        {this.chooseString()}
-      </Text>
-    );
-  }
 
   chooseString() {
 
@@ -352,6 +331,49 @@ class DatePicker extends Component {
     }
   }
 
+  getTitleElement() {
+    const { date, placeholder, customStyles, allowFontScaling, iconName, iconColor, text } = this.props;
+    const dateInputStyle = [
+      customStyles.dateInput,
+    ];
+    const header = [
+      customStyles.header,
+    ];
+
+    if (!date && placeholder) {
+      return (
+        <Text
+          allowFontScaling={allowFontScaling}
+          style={[styles.placeholderText, customStyles.placeholderText]}
+        >
+          {placeholder}
+        </Text>
+      );
+    }
+    return (
+
+      <View style={dateInputStyle}>
+
+        <View style={header}>
+          
+          <Icon name={iconName} color={iconColor} size={20} />
+          <Text style={customStyles.inputHdr} >
+            {text}
+          </Text>
+
+        </View>
+
+        <View style={customStyles.datestyle}>
+        <Text style={[styles.dateText, customStyles.dateText]} >
+          {this.chooseString()}
+          </Text>
+          </View>
+
+      </View>
+
+    );
+  }
+
   render() {
     const {
       mode,
@@ -398,9 +420,9 @@ class DatePicker extends Component {
         <View style={[styles.dateTouchBody, customStyles.dateTouchBody]}>
           {this.props.renderDate ? (
             this.props.renderDate(this.props.date)
-          ) : !this.props.hideText ? (
-            <View style={dateInputStyle}><Icon name={iconName} color={iconColor} size={20} />{this.getTitleElement()}</View>
-          ) : (
+          ) : !this.props.hideText ?
+              this.getTitleElement()
+              : (
                 <View />
               )}
           <Modal
@@ -431,7 +453,7 @@ class DatePicker extends Component {
                     <View
                       style={[
                         styles.btnsView,
-                    //    accentColor ? { backgroundColor: accentColor } : {}
+                        //    accentColor ? { backgroundColor: accentColor } : {}
                       ]}
                     >
                       <TouchableComponent
@@ -503,15 +525,15 @@ class DatePicker extends Component {
                         minimumDate={minDate && this.getDate(minDate)}
                         maximumDate={maxDate && this.getDate(maxDate)}
                         onDateChange={this.onDateChange}
-                      //  itemStyle={styles.itemStyle}
+                        //  itemStyle={styles.itemStyle}
                         minuteInterval={minuteInterval}
-                    //    timeZoneOffsetInMinutes={
-                   //       timeZoneOffsetInMinutes
-                   ///         ? timeZoneOffsetInMinutes
-                   //         : null
-                   //     }
-                     //   style={[styles.datePickerIOS, customStyles.datePicker]}
-                       locale={'pt-br'}
+                        //    timeZoneOffsetInMinutes={
+                        //       timeZoneOffsetInMinutes
+                        ///         ? timeZoneOffsetInMinutes
+                        //         : null
+                        //     }
+                        //   style={[styles.datePickerIOS, customStyles.datePicker]}
+                        locale={'pt-br'}
                       />
                     </View>
                   </Animated.View>
@@ -577,6 +599,7 @@ DatePicker.propTypes = {
   customStyles: PropTypes.object,
   iconName: PropTypes.string,
   iconColor: PropTypes.string,
+  text: PropTypes.string,
 
   height: PropTypes.number, //ios
   duration: PropTypes.number, //ios
