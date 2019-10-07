@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/drawable-ldpi-v4/mdtp_ic_chevron_right_black_24dp.png",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/2f1dd17ed182d80f480bbacbfa4d0cf3/res/drawable-ldpi-v4/mdtp_ic_chevron_right_black_24dp.png"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/drawable-ldpi-v4/mdtp_ic_chevron_left_black_24dp.png",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/2f1dd17ed182d80f480bbacbfa4d0cf3/res/drawable-ldpi-v4/mdtp_ic_chevron_left_black_24dp.png"
+    }
+]

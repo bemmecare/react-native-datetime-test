@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/044f20237bb321cbc8c3ccdcc5c6b66f/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/044f20237bb321cbc8c3ccdcc5c6b66f/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/8de8e69e6ad04f0330963459028fd2fa/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/8de8e69e6ad04f0330963459028fd2fa/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/cb3a7daa8f4772f29b5ea290519aa15b/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/cb3a7daa8f4772f29b5ea290519aa15b/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/cb3a7daa8f4772f29b5ea290519aa15b/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/044f20237bb321cbc8c3ccdcc5c6b66f/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/044f20237bb321cbc8c3ccdcc5c6b66f/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/8de8e69e6ad04f0330963459028fd2fa/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/044f20237bb321cbc8c3ccdcc5c6b66f/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/044f20237bb321cbc8c3ccdcc5c6b66f/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/044f20237bb321cbc8c3ccdcc5c6b66f/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/cb3a7daa8f4772f29b5ea290519aa15b/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/044f20237bb321cbc8c3ccdcc5c6b66f/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/044f20237bb321cbc8c3ccdcc5c6b66f/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/044f20237bb321cbc8c3ccdcc5c6b66f/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/044f20237bb321cbc8c3ccdcc5c6b66f/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/044f20237bb321cbc8c3ccdcc5c6b66f/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/8de8e69e6ad04f0330963459028fd2fa/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/cb3a7daa8f4772f29b5ea290519aa15b/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/cb3a7daa8f4772f29b5ea290519aa15b/res/anim/catalyst_fade_in.xml"
+    }
+]

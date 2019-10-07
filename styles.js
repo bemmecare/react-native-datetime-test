@@ -7,7 +7,6 @@ module.exports = StyleSheet.create({
     textAlign: "center",
     marginTop: 20
   },
-
   itemStyle: {
     color: "red"
   },

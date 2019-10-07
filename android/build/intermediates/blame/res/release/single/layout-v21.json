@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/b8797fd28e0c55e0cb8437940bd3496c/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/b8797fd28e0c55e0cb8437940bd3496c/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/b8797fd28e0c55e0cb8437940bd3496c/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/b8797fd28e0c55e0cb8437940bd3496c/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

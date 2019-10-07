@@ -1,7 +1,8 @@
 import _ from "lodash";
 import moment from "moment";
 import Icon from 'react-native-vector-icons/FontAwesome'
-import 'moment/locale/pt-br'
+//import 'moment/locale/pt-br'
+//moment.locale('pt-br');
 import PropTypes from "prop-types";
 import React, { Component } from "react";
 import {
@@ -205,7 +206,8 @@ class DatePicker extends Component {
         return 'Escolher data'
       }
       else {
-        return moment(this.getDateStr()).locale('pt-BR').format('ddd, DD [de] MMM [de] YYYY')
+       // return moment(this.getDateStr()).locale('pt-BR').format('ddd, DD [de] MMM [de] YYYY')
+       return moment(this.getDateStr()).format('ddd, DD [de] MMM [de] YYYY')
       }
     }
 

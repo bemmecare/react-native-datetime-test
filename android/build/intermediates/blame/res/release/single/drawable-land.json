@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/drawable-land/mdtp_done_background_color_dark.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/2f1dd17ed182d80f480bbacbfa4d0cf3/res/drawable-land/mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/drawable-land/mdtp_done_background_color.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/2f1dd17ed182d80f480bbacbfa4d0cf3/res/drawable-land/mdtp_done_background_color.xml"
+    }
+]

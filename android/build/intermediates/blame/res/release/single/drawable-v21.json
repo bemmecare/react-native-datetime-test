@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/044f20237bb321cbc8c3ccdcc5c6b66f/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/044f20237bb321cbc8c3ccdcc5c6b66f/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/drawable-v21/mdtp_material_button_selected.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/2f1dd17ed182d80f480bbacbfa4d0cf3/res/drawable-v21/mdtp_material_button_selected.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/b8797fd28e0c55e0cb8437940bd3496c/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/drawable-v21/avd_show_password.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/8de8e69e6ad04f0330963459028fd2fa/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/drawable-v21/mdtp_material_button_background.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/2f1dd17ed182d80f480bbacbfa4d0cf3/res/drawable-v21/mdtp_material_button_background.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/8de8e69e6ad04f0330963459028fd2fa/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/drawable-v21/mdtp_month_arrow_background.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/2f1dd17ed182d80f480bbacbfa4d0cf3/res/drawable-v21/mdtp_month_arrow_background.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/8de8e69e6ad04f0330963459028fd2fa/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/044f20237bb321cbc8c3ccdcc5c6b66f/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/044f20237bb321cbc8c3ccdcc5c6b66f/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/044f20237bb321cbc8c3ccdcc5c6b66f/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/lucasj/Documents/ReactNative/BmCApp/node_modules/react-native-datetime-test/android/build/intermediates/res/merged/release/drawable-v21/design_password_eye.xml",
+        "source": "/Users/lucasj/.gradle/caches/transforms-2/files-2.1/8de8e69e6ad04f0330963459028fd2fa/res/drawable-v21/design_password_eye.xml"
+    }
+]
